@@ -1,0 +1,21 @@
+1527628086354	geckodriver	INFO	geckodriver 0.20.1
+1527628086359	geckodriver	INFO	Listening on 127.0.0.1:46577
+1527628087374	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gviBn9APAhkQ"
+1527628091978	Marionette	INFO	Listening on port 39939
+1527628092011	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527628734545	geckodriver	INFO	geckodriver 0.20.1
+1527628734550	geckodriver	INFO	Listening on 127.0.0.1:58507
+1527628735558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xs4l2iNH8YyY"
+1527628739034	Marionette	INFO	Listening on port 33275
+1527628739104	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527631767856	geckodriver	INFO	geckodriver 0.20.1
+1527631767863	geckodriver	INFO	Listening on 127.0.0.1:51619
+1527631768876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Fi4T3sq3F9ly"
+1527631772583	Marionette	INFO	Listening on port 45449
+1527631772638	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
